@@ -12,6 +12,7 @@
 ### LANGUAGES:
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png"/><img align="left" alt="TypeScript" width="26px" src="https://img.icons8.com/color/48/000000/typescript.png"/><img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png"/><img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java.png" /><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+<img align="left" alt="Csharp" width="26px" src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png"/><img align="left" alt="Cplusplus" width="26px" src="https://www.alura.com.br/artigos/assets/formacao-linguagem-c-plus-plus/img-01.png"/>
 
 ### FRAMEWORKS:
 <img align="left" alt="Django" width="26px" src="https://img.icons8.com/color/48/000000/django.png"/><img align="left" alt="Flask" width="26px" src="https://img.icons8.com/color/48/000000/flask.png"/>
