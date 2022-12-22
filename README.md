@@ -9,7 +9,7 @@
 - I'm brazilian from São Paulo.
 - I have 26 years old.
 - I’m looking to collaborate on anything!
-- Ask me about anything, I am happy to help.
+- Ask me about anything, I am glad to help.
 - Fun-Fact: I was a teacher before becoming a data scientist.
 - How to reach me: __renan.sp.121@hotmail.com__ or __+55 (11) 9 9359-7029__
 
