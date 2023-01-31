@@ -7,7 +7,7 @@
 - I’m currently working on __[Candide](http://www.candide.com.br)__.
 - I’m currently learning __Ruby__, __PHP__, & __GoLang__.
 - I'm brazilian from São Paulo.
-- I have 26 years old.
+- I have 27 years old.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am glad to help.
 - Fun-Fact: I was a teacher before becoming a data scientist.
