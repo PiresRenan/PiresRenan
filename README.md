@@ -45,7 +45,7 @@
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
-  <code><img width="10%" src="https://upload.vectorlogo.zone/logos/nextjs/images/60eff509-53dd-4280-92e7-7318fa02e934.svg"></code>
+  <code><img width="10%" src="https://upload.vectorlogo.zone/logos/nextjs/images/271afdac-aad3-4712-89fd-a25f63fd6dd4.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/gruntjs/gruntjs-ar21.svg"></code>
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
