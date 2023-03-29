@@ -5,7 +5,7 @@
 **About Me:**
 
 - I’m currently working on __[Candide](http://www.candide.com.br)__.
-- I’m currently learning __machine__ __learning__ and __artificial__ __intelligence__.
+- I’m currently learning __Machine__ __Learning__ and __Artificial__ __Intelligence__.
 - I'm brazilian from São Paulo.
 - I have 27 years old.
 - I’m looking to collaborate on anything!
