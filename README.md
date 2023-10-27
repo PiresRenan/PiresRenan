@@ -4,13 +4,11 @@
 
 **About Me:**
 
-- I’m currently working on __[Candide](http://www.candide.com.br)__.
-- I’m currently learning __Machine__ __Learning__ and __Artificial__ __Intelligence__.
+- I'm currently improving my web development knowledge, focusing on Next.js, Flutter, Dart, and DevOps tools such as Linux, AWS, scripting, Jenkins, Ansible, Docker, and Kubernetes (K8s).
 - I'm brazilian from São Paulo.
 - I have 27 years old.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am glad to help.
-- Fun-Fact: I was a teacher before becoming a data scientist.
 - How to reach me: __renan.sp.121@hotmail.com__ or __+55 (11) 9 9359-7029__
 
 ---
@@ -46,7 +44,7 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
   <code><img width="15%" src="https://upload.vectorlogo.zone/logos/nextjs/images/271afdac-aad3-4712-89fd-a25f63fd6dd4.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/gruntjs/gruntjs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-official.svg"></code>
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
