@@ -6,7 +6,7 @@
 
 - I'm currently improving my web development knowledge, focusing on Next.js, Flutter, Dart, and DevOps tools such as Linux, AWS, scripting, Jenkins, Ansible, Docker, and Kubernetes (K8s).
 - I'm brazilian from São Paulo.
-- I have 27 years old.
+- I have 28 years old.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am glad to help.
 - How to reach me: __renan.sp.121@hotmail.com__ or __+55 (11) 9 9359-7029__
