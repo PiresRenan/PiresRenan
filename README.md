@@ -9,7 +9,7 @@
 - 🤝 Open to collaborating on challenging projects that drive innovation.
 - 📫 Reach me at: renan.sp.121@hotmail.com or +55 (11) 9 9359-7029
 
-  With an insatiable passion for web development and a growing interest in AI and ML, I'm constantly seeking out challenges that allow me to expand my horizons and drive innovation. Armed with extensive experience across a wide range of technologies and a solution-oriented mindset, I'm ready to take on ambitious projects and make a significant contribution to their success.
+With an insatiable passion for web development and a growing interest in AI and ML, I'm constantly seeking out challenges that allow me to expand my horizons and drive innovation. Armed with extensive experience across a wide range of technologies and a solution-oriented mindset, I'm ready to take on ambitious projects and make a significant contribution to their success.
 
 If you're in search of a committed, talented, and motivated developer to propel your project to new heights, I'm ready to join your team and make it happen. Let's build something amazing together!
 
