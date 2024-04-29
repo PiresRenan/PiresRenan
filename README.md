@@ -4,7 +4,7 @@
 
 **About Me:**
 
-- I'm currently improving my web development knowledge, focusing on Next.js, Flutter, Dart, and DevOps tools such as Linux, AWS, scripting, Jenkins, Ansible, Docker, and Kubernetes (K8s).
+- I'm currently improving my web development knowledge, focusing on IA and ML.
 - I'm brazilian from São Paulo.
 - I have 28 years old.
 - I’m looking to collaborate on anything!
