@@ -9,6 +9,10 @@
 - 🤝 Open to collaborating on challenging projects that drive innovation.
 - 📫 Reach me at: renan.sp.121@hotmail.com or +55 (11) 9 9359-7029
 
+  With an insatiable passion for web development and a growing interest in AI and ML, I'm constantly seeking out challenges that allow me to expand my horizons and drive innovation. Armed with extensive experience across a wide range of technologies and a solution-oriented mindset, I'm ready to take on ambitious projects and make a significant contribution to their success.
+
+If you're in search of a committed, talented, and motivated developer to propel your project to new heights, I'm ready to join your team and make it happen. Let's build something amazing together!
+
 ---
 
 **Dominant Stacks:**
@@ -16,17 +20,18 @@
 <p>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
- <br />
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
  <br />
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+ <br />
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
  <br />
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
@@ -39,18 +44,12 @@
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
  <br />
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
+ <code><img width="15%" src="https://upload.vectorlogo.zone/logos/nextjs/images/271afdac-aad3-4712-89fd-a25f63fd6dd4.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-official.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></code>
+ <br />
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
 </p>
-
-
-<a href="https://github.com/PiresRenan/github-readme-stats">
-  <img width="60%" alt="Renan's github stats" src="https://github-readme-stats.vercel.app/api?username=PiresRenan&show_icons=true&hide_border=true" />
-</a>
-
----
-
-With an insatiable passion for web development and a growing interest in AI and ML, I'm constantly seeking out challenges that allow me to expand my horizons and drive innovation. Armed with extensive experience across a wide range of technologies and a solution-oriented mindset, I'm ready to take on ambitious projects and make a significant contribution to their success.
-
-If you're in search of a committed, talented, and motivated developer to propel your project to new heights, I'm ready to join your team and make it happen. Let's build something amazing together!
