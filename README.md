@@ -29,12 +29,12 @@ If you're in search of a committed, talented, and motivated developer to propel 
  <br />
  **Frameworks and libraries**
  <br />
- <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
- <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
- <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
- <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
- <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"></code>
- <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg"></code>
  <br />
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
