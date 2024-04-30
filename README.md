@@ -41,7 +41,13 @@ If you're in search of a committed, talented, and motivated developer to propel 
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+ <br />
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-icon.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/amazon_kinesis/amazon_kinesis-icon.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-icon.svg"></code>
  <br />
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
