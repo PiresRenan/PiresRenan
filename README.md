@@ -42,7 +42,7 @@ If you're in search of a committed, talented, and motivated developer to propel 
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
  <br />
- <code><div style="text-align: center;"><img width="7.5%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+ <code><div style="text-align: center;"><img width="7.5%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></div>div></code>
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-icon.svg"></code>
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/amazon_kinesis/amazon_kinesis-icon.svg"></code>
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg"></code>
