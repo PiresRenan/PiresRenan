@@ -24,7 +24,7 @@ Dominant Stacks:
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
+ <code><img width="12.5%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
  <br />
 </p>
  <br />
