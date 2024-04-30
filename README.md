@@ -57,7 +57,7 @@ Dominant Stacks:
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
 </p>
  <br />
- **Databases:**
+**Databases:**
  <br />
  <p>
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code>
@@ -68,7 +68,7 @@ Dominant Stacks:
   </p>
 
  <br />
- **Infrastructure and Networking:**
+**Infrastructure and Networking:**
  <p>
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></code>
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
@@ -86,7 +86,8 @@ Dominant Stacks:
  <p>
  
  <br />
- **And more:**
+
+**And more:**
  <p>
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg"></code>
