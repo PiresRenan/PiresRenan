@@ -56,7 +56,8 @@ Dominant Stacks:
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg"></code>
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
 </p>
- <br />
+<br />
+
 **Databases:**
  <br />
  <p>
@@ -66,9 +67,10 @@ Dominant Stacks:
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></code>
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
   </p>
+<br />
 
- <br />
 **Infrastructure and Networking:**
+<br />
  <p>
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></code>
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
@@ -85,7 +87,7 @@ Dominant Stacks:
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-icon.svg"></code>
  <p>
  
- <br />
+<br />
 
 **And more:**
  <p>
