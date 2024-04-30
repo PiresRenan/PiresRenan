@@ -60,49 +60,49 @@ Dominant Stacks:
  **Databases:**
  <br />
  <p>
- <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code>
- <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></code>
- <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
- <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></code>
- <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
   </p>
 
  <br />
  **Infrastructure and Networking:**
  <p>
- <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></code>
- <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
- <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"></code>
- <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg"></code>
- <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
- <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-official.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-official.svg"></code>
  <br />
- <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
- <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-icon.svg"></code>
- <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/amazon_kinesis/amazon_kinesis-icon.svg"></code>
- <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg"></code>
- <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg"></code>
- <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-icon.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-icon.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/amazon_kinesis/amazon_kinesis-icon.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-icon.svg"></code>
  <p>
  
  <br />
  **And more:**
  <p>
- <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
- <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg"></code>
- <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg"></code>
- <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg"></code>
- <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/lucidchart/lucidchart-icon.svg"></code>
- <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/lucidchart/lucidchart-icon.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg"></code>
  <br />
- <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg"></code>
- <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/pypi/pypi-icon.svg"></code>
- <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg"></code>
- <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/redis/redis-official.svg"></code>
- <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg"></code>
- <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/pypi/pypi-icon.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/redis/redis-official.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg"></code>
  <br />
- <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg"></code>
- <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
- <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg"></code>
 </p>
