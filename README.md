@@ -25,10 +25,10 @@ If you're in search of a committed, talented, and motivated developer to propel 
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
  <br />
-
+</p>
  <br />
  **Frameworks and libraries**
- <br />
+ <p>
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
@@ -53,7 +53,7 @@ If you're in search of a committed, talented, and motivated developer to propel 
  <code><img width="7.5%" src="https://upload.vectorlogo.zone/logos/nextjs/images/271afdac-aad3-4712-89fd-a25f63fd6dd4.svg"></code>
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-ar21.svg"></code>
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
-
+</p>
  <br />
  **Databases:**
  <br />
