@@ -25,9 +25,10 @@ If you're in search of a committed, talented, and motivated developer to propel 
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
  <br />
---------------------------------------------------
+
  <br />
  **Frameworks and libraries**
+ <br />
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
@@ -52,18 +53,20 @@ If you're in search of a committed, talented, and motivated developer to propel 
  <code><img width="7.5%" src="https://upload.vectorlogo.zone/logos/nextjs/images/271afdac-aad3-4712-89fd-a25f63fd6dd4.svg"></code>
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-ar21.svg"></code>
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
---------------------------------------------------
+
  <br />
  **Databases:**
+ <br />
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
   <br />
- --------------------------------------------------
+
  <br />
  **Infrastructure and Networking:**
+ <br />
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
@@ -78,9 +81,10 @@ If you're in search of a committed, talented, and motivated developer to propel 
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg"></code>
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-icon.svg"></code>
  <br />
-  --------------------------------------------------
+
  <br />
  **And more:**
+ <br />
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
