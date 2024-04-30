@@ -30,19 +30,19 @@ Dominant Stacks:
 
 **Frameworks and libraries:**
  <p>
- <code><img width="13.5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
- <code><img width="13.5%" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
- <code><img width="13.5%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
- <code><img width="13.5%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code>
- <code><img width="13.5%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"></code>
- <code><img width="13.5%" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg"></code>
+ <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+ <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
+ <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
+ <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code>
+ <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"></code>
+ <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg"></code>
  <br />
- <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
- <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
- <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
- <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
- <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/pytorch/index.html"></code>
- <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg"></code>
+ <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
+ <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"></code>
+ <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"></code>
+ <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"></code>
+ <code><img width="12.75%" src="https://upload.vectorlogo.zone/logos/nextjs/images/271afdac-aad3-4712-89fd-a25f63fd6dd4.svg"></code>
+ <code><img width="12.75%" src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg"></code>
  <br />
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></code>
@@ -51,9 +51,8 @@ Dominant Stacks:
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/pocoo_jinja/pocoo_jinja-icon.svg"></code>
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg"></code>
  <br />
- <code><img width="7.5%" src="https://upload.vectorlogo.zone/logos/nextjs/images/271afdac-aad3-4712-89fd-a25f63fd6dd4.svg"></code>
- <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-ar21.svg"></code>
- <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg"></code>
+ <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
 </p>
  <br />
  **Databases:**
