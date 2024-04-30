@@ -30,10 +30,10 @@ Dominant Stacks:
 
 **Frameworks and libraries:**
  <p>
- <code><img width="13.5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
- <code><img width="13.5%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
- <code><img width="13.5%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
- <code><img width="13.5%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+ <code><img width="13.5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+ <code><img width="13.5%" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
+ <code><img width="13.5%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
+ <code><img width="13.5%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code>
  <code><img width="13.5%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"></code>
  <code><img width="13.5%" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg"></code>
  <br />
