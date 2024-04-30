@@ -15,7 +15,7 @@ If you're in search of a committed, talented, and motivated developer to propel 
 
 ---
 
-**Dominant Stacks:**
+Dominant Stacks:
 
 **Languages:**
 <p>
@@ -27,7 +27,8 @@ If you're in search of a committed, talented, and motivated developer to propel 
  <br />
 </p>
  <br />
- **Frameworks and libraries:**
+
+**Frameworks and libraries:**
  <p>
  <code><img width="12.5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
  <code><img width="12.5%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
