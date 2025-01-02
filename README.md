@@ -7,7 +7,7 @@
 - 👨‍💻 With 28 years, I'm a seasoned coder and problem solver.
 - 💡 I'm constantly seeking to expand my knowledge and refine my skills.
 - 🤝 Open to collaborating on challenging projects that drive innovation.
-- 📫 Reach me at: renan.sp.121@hotmail.com or +55 (11) 9 9359-7029
+- 📫 Reach me at: renas.pires@outlook.com or +55 (11) 9 9359-7029
 
 With an insatiable passion for web development and a growing interest in AI and ML, I'm constantly seeking out challenges that allow me to expand my horizons and drive innovation. Armed with extensive experience across a wide range of technologies and a solution-oriented mindset, I'm ready to take on ambitious projects and make a significant contribution to their success.
 
