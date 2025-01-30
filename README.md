@@ -4,7 +4,7 @@
 
 - 🚀 Passionate about web development and enthusiastic about AI and ML.
 - 🇧🇷 Brazilian, hailing from São Paulo.
-- 👨‍💻 With 28 years, I'm a seasoned coder and problem solver.
+- 👨‍💻 With 29 years, I'm a seasoned coder and problem solver.
 - 💡 I'm constantly seeking to expand my knowledge and refine my skills.
 - 🤝 Open to collaborating on challenging projects that drive innovation.
 - 📫 Reach me at: renas.pires@outlook.com or +55 (11) 9 9359-7029
