@@ -1,17 +1,53 @@
-## Hello, I'm Renan Pires!
+# Olá — sou Renan Pires 👋  
+**Senior Backend / Full-stack Developer · Tech Lead**  
+São Paulo, BR · Aberto a oportunidades sênior (híbrido/remote)
 
-**About Me:**
+---
 
-- 🚀 Passionate about web development and enthusiastic about AI and ML.
-- 🇧🇷 Brazilian, hailing from São Paulo.
-- 👨‍💻 With 29 years, I'm a seasoned coder and problem solver.
-- 💡 I'm constantly seeking to expand my knowledge and refine my skills.
-- 🤝 Open to collaborating on challenging projects that drive innovation.
-- 📫 Reach me at: renas.pires@outlook.com or +55 (11) 9 9359-7029
+## Sobre mim
+Sou desenvolvedor de software com 8 anos de experiência e 3 anos atuando como Senior / Tech Lead, especializado em projetar e entregar sistemas backend e full-stack de alta complexidade. Tenho histórico comprovado de transformar requisitos de negócio em arquiteturas escaláveis, seguras e observáveis — destaque para a construção do zero de uma plataforma multi-tenant para gestão hospitalar, com MVP entregue em 4 meses, suporte a ~10k usuários no go-live e 99,9% uptime.
 
-With an insatiable passion for web development and a growing interest in AI and ML, I'm constantly seeking out challenges that allow me to expand my horizons and drive innovation. Armed with extensive experience across a wide range of technologies and a solution-oriented mindset, I'm ready to take on ambitious projects and make a significant contribution to their success.
+Minha atuação abrange toda a cadeia de entrega: definição arquitetural, escolha de tecnologias (cloud, orquestração, bancos e infra), desenvolvimento de APIs robustas, implementação de CI/CD e garantia de qualidade via TDD e testes automatizados. Valorizo práticas de engenharia como Clean Code, revisão rigorosa de PRs (≥3000 revisões), observability (metrics, tracing, logging) e automação para reduzir MTTR e manter alta disponibilidade.
 
-If you're in search of a committed, talented, and motivated developer to propel your project to new heights, I'm ready to join your team and make it happen. Let's build something amazing together!
+Além da execução técnica, sou referência em liderança técnica e mentoria — foco em capacitar times, melhorar processos e alinhar entregas a KPIs de negócio. Tenho experiência integrando pipelines de dados e modelos de ML em produção, sempre com atenção à segurança e conformidade (OAuth2, RBAC, criptografia de dados).
+
+Sou orientado a impacto: priorizo soluções que gerem resultados mensuráveis (performance, custo, confiabilidade) e mantenho comunicação direta com stakeholders para assegurar que a tecnologia entregue valor real. Busco oportunidades desafiadoras onde possa aplicar visão arquitetural, elevar a maturidade técnica do time e conduzir entregas estratégicas com excelência.
+
+## O que eu entrego
+- **Liderança técnica & mentoria:** elevo a qualidade do time por meio de code reviews, padrões e coaching (≥3000 PRs revisados).  
+- **Arquitetura escalável:** microserviços e multi-tenant que garantem isolamento, performance e custo eficiente.  
+- **Entregas previsíveis:** pipelines CI/CD e TDD para reduzir riscos e acelerar time-to-market.  
+- **Observabilidade & Resiliência:** métricas, tracing e autoscaling para manter alta disponibilidade e MTTR baixo.  
+- **Integração de dados & ML:** pipelines ETL e entrega de modelos em produção quando necessário.  
+- **Segurança e compliance:** design com OAuth2, RBAC e criptografia para proteção de dados sensíveis.  
+- **Foco em negócio:** traduzo requisitos em soluções técnicas alinhadas a KPIs e resultados
+
+---
+
+## Tech stack (resumo)
+**Linguagens:** TypeScript, Java, Python, JavaScript, SQL  
+**Backend:** Node.js, NestJS, Spring Boot, FastAPI, Django  
+**Frontend:** Next.js, React, Vue.js, Angular  
+**Cloud & Infra:** AWS (EKS, RDS, S3, Lambda), Docker, Kubernetes, Terraform  
+**Dados & ML:** PySpark, Airflow, integração de modelos em produção  
+**APIs & Outros:** REST, GraphQL, gRPC, OAuth2/RBAC, Observability (Prometheus, Grafana)  
+**Qualidade:** TDD, testes automáticos (Jest, JUnit), revisão de código, CI/CD
+
+---
+
+## Idiomas
+- Português — Nativo  
+- Inglês — Avançado (leitura técnica e conversação)
+
+---
+
+## Contato
+**LinkedIn:** https://www.linkedin.com/in/renan-sp/  
+**Email:** renans.pires@outlook.com · **WhatsApp:** +55 11 99359-7029
+
+---
+
+Se você busca um profissional que una **visão arquitetural**, **entrega prática** e **mentoria técnica** para elevar a engenharia do time, vamos conversar. 🚀
 
 ---
 
@@ -41,7 +77,6 @@ Dominant Stacks:
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"></code>
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"></code>
- <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"></code>
  <code><img width="7.5%" src="https://upload.vectorlogo.zone/logos/nextjs/images/271afdac-aad3-4712-89fd-a25f63fd6dd4.svg"></code>
  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg"></code>
  <br />
